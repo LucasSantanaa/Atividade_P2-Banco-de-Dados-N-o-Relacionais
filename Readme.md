@@ -24,12 +24,21 @@ para ver o log de mensagens
 exemplo ja funcionando:
 
 PS C:\Users\ALUNO\Desktop\Atividade_P2> docker logs -f consumer
+
 Aguardando RabbitMQ subir...
+
 Aguardando RabbitMQ subir...
+
 Aguardando RabbitMQ subir...
+
  Aguardando mensagens...
+ 
 Mensagem recebida: {'nome': 'Alice', 'texto': 'Ola do FastAPI4!'}
+
 Mensagem recebida: {'nome': 'Alice', 'texto': 'Ola do FastAPI!'}
+
 Mensagem recebida: {'nome': 'Alice', 'texto': 'Ola do FastAPI2!'}
+
 Mensagem recebida: {'nome': 'Alice', 'texto': 'Ola do FastAPI3!'}
+
 
